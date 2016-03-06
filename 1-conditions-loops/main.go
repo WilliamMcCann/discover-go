@@ -35,8 +35,4 @@ func main() {
 	for ; i < 3; i++ {
 		fmt.Printf("%s is a founder\n", holbertonFounders[i])
 	}
-	// fmt.Printf("boolean value sentence\n")
-	// fmt.Printf("is a founder\n")
-	// fmt.Printf("is a founder\n")
-	// fmt.Printf("is a founder\n")
 }
